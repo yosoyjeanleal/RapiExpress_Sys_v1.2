@@ -56,13 +56,5 @@ Este proyecto es un sistema de gestión de paquetes desarrollado en PHP utilizan
 - **Backend**: PHP 7+ con POO, PDO, MVC
 - **Frontend**: HTML5, CSS3, JavaScript, Bootstrap
 - **Base de datos**: MySQL
-- **Extras**: Uso de emojis para mejorar la UX, librerías para gráficos (Chart.js), generación de PDFs
 
-## Beneficios
-✔️ Sistema organizado y escalable gracias a MVC  
-✔️ Mayor seguridad con PDO  
-✔️ Código más mantenible con POO  
-✔️ Experiencia de usuario mejorada con emojis  
-✔️ Reportes completos para toma de decisiones  
-
-El sistema está diseñado para ser intuitivo, eficiente y adaptable a las necesidades cambiantes de empresas de mensajería y delivery.
++
